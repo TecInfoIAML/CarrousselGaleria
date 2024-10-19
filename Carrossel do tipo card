@@ -1,0 +1,7 @@
+<div class="card" style="width: 24%;height: 600px;" >
+            <img class="card-img-top" src="gerenteComercial.jpg" alt="">
+            <div class="card-body">
+            <h5>Titulol</h5>
+            <p>Parágrafo</p>
+            </div>
+</div>
